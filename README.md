@@ -15,5 +15,5 @@ If you'd like to start the application from scratch with base installation prope
 # Modification
 To modify which applications are run, you can write them into save.txt directly with their file location.
 
-#Future
+# Future
 Multiple save files for the user to choose from.
